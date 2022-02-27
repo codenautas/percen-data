@@ -1,0 +1,19 @@
+usuario|rol|activo|nombre|apellido|dni|telefono|interno|mail|mail_alternativo|md5clave|comuna
+bob|admin|true||||||||6bdb73cceeff578319840176854246e5|
+cmosteiro|coach|true|CAMILA EVA|MOSTEIRO||||cmosteiro@estadisticaciudad.gob.ar|||14
+droldan|coach|true|DANIELA EDITH|ROLDAN||||droldan@estadisticaciudad.gob.ar|||5
+ecarpinetti|coach|true|NANCY ELIZABETH|CARPINETTI||||ecarpinetti@estadisticaciudad.gob.ar|||1
+fcaniza|coach|true|FACUNDO ADRIÁN|CANIZA||||fcaniza@estadisticaciudad.gob.ar|||7
+fgerenni|coach|true|FLORENCIA|GERENNI||||fgerenni@estadisticaciudad.gob.ar|||9
+fzaccaria|coach|true|MARÍA FERNANDA|ZACCARÍA||||fzaccaria@estadisticaciudad.gob.ar|||8
+gfaierman|coach|true|GLADYS|FAIERMAN||||gfaierman@estadisticaciudad.gob.ar|||11
+gladys|coach|true|GLADYS|FAIERMAN||||gfaierman@estadisticaciudad.gob.ar||a7c0d4d0fdb1fa3669c53691efae14b1|11
+jandujar|coach|true|JUAN MANUEL|ANDÚJAR||||jandujar@estadisticaciudad.gob.ar|||2
+mcroggi|coach|true|MARIA CECILIA|ROGGI||||mcroggi@estadisticaciudad.gob.ar|||6
+mperezfrattini|coach|true|MARIA LAURA|PEREZ FRATTINI||||mperezfrattini@estadisticaciudad.gob.ar|||10
+ptate|coach|true|PAULA ALEJANDRA|TATE||||ptate@estadisticaciudad.gob.ar|||3
+rdadamia|coach|true|ROBERTO ARIEL|DADAMIA||||rdadamia@estadisticaciudad.gob.ar|||4
+scuppari|coach|true|SILVANA EMILCE LOURDES|CUPPARI||||scuppari@estadisticaciudad.gob.ar|||12
+spassamonti|coach|true|SERGIO|PASSAMONTI||||spassamonti@estadisticaciudad.gob.ar|||15
+vacuna|coach|true|JESICA VERÓNICA|ACUÑA||||vacuna@estadisticaciudad.gob.ar|||
+vcoll|coach|true|VALERIA|COLL||||vcoll@estadisticaciudad.gob.ar|||13

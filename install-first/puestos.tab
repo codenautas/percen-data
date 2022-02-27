@@ -1,0 +1,15 @@
+puesto|descripcion|nombre_normalizado|tiene_usuario|edita_personal|depende_de|desagregacion_geografica
+Asistente de Jefe de Fracción|||||Jefe de Fracción|fraccion
+Censista de Viviendas Colectivas|||||Jefe de Fracción|fraccion
+Censista situación de calle|||||Jefe de equipo|comuna
+Censista|||||Jefe de Radio|radio
+Coordinador Provincial|||true|true||provincia
+Jefe de comuna|||true|true|Coordinador Provincial|comuna
+Jefe de equipo|||||Coordinador Provincial|provincia
+Jefe de Fracción|||||Jefe de comuna|fraccion
+Jefe de Radio|||||Jefe de Fracción|radio
+Subcoordinador Cartografía|||||Coordinador Provincial|provincia
+Subcoordinador Comunicación|||||Coordinador Provincial|provincia
+Subcoordinador Gestión|||true|true|Coordinador Provincial|provincia
+Subcoordinador logística|||||Coordinador Provincial|provincia
+Subcoordinador RRHH|||true|true|Coordinador Provincial|provincia
