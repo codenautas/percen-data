@@ -1,15 +1,15 @@
-puesto|descripcion|nombre_normalizado|tiene_usuario|edita_personal|depende_de|desagregacion_geografica
-Asistente de Jefe de Fracción|||||Jefe de Fracción|fraccion
-Censista de Viviendas Colectivas|||||Jefe de Fracción|fraccion
-Censista situación de calle|||||Jefe de equipo|comuna
-Censista|||||Jefe de Radio|radio
-Coordinador Provincial|||true|true||provincia
-Jefe de Departamento|||true|true|Coordinador Provincial|comuna
-Jefe de equipo|||||Coordinador Provincial|provincia
-Jefe de Fracción|||||Jefe de Departamento|fraccion
-Jefe de Radio|||||Jefe de Fracción|radio
-Subcoordinador Cartografía|||||Coordinador Provincial|provincia
-Subcoordinador Comunicación|||||Coordinador Provincial|provincia
-Subcoordinador Gestión|||true|true|Coordinador Provincial|provincia
-Subcoordinador logística|||||Coordinador Provincial|provincia
-Subcoordinador RRHH|||true|true|Coordinador Provincial|provincia
+puesto|descripcion|nombre_normalizado|tiene_usuario|edita_personal|depende_de|desagregacion_geografica|equipo|jefe
+Asistente de Jefe de Fracción|||||Jefe de Fracción|fraccion|hogares|
+Censista|||||Jefe de Radio|radio|hogares|
+Censista de Viviendas Colectivas|||||Jefe de Fracción|fraccion|hogares|
+Censista PSC|||||Jefe de equipo PSC|provincia|PSC|
+Coordinador Provincial|||true|true||provincia||
+Jefe de Departamento|||true|true|Coordinador Provincial|comuna|hogares|true
+Jefe de equipo PSC|||||Coordinador Provincial|provincia|PSC|true
+Jefe de Fracción|||||Jefe de Departamento|fraccion|hogares|true
+Jefe de Radio|||||Jefe de Fracción|radio|hogares|true
+Subcoordinador Cartografía|||||Coordinador Provincial|provincia||
+Subcoordinador Comunicación|||||Coordinador Provincial|provincia||
+Subcoordinador Gestión|||true|true|Coordinador Provincial|provincia||
+Subcoordinador logística|||||Coordinador Provincial|provincia||
+Subcoordinador RRHH|||true|true|Coordinador Provincial|provincia||
