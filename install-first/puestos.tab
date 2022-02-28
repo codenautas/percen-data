@@ -4,9 +4,9 @@ Censista de Viviendas Colectivas|||||Jefe de Fracción|fraccion
 Censista situación de calle|||||Jefe de equipo|comuna
 Censista|||||Jefe de Radio|radio
 Coordinador Provincial|||true|true||provincia
-Jefe de comuna|||true|true|Coordinador Provincial|comuna
+Jefe de Departamento|||true|true|Coordinador Provincial|comuna
 Jefe de equipo|||||Coordinador Provincial|provincia
-Jefe de Fracción|||||Jefe de comuna|fraccion
+Jefe de Fracción|||||Jefe de Departamento|fraccion
 Jefe de Radio|||||Jefe de Fracción|radio
 Subcoordinador Cartografía|||||Coordinador Provincial|provincia
 Subcoordinador Comunicación|||||Coordinador Provincial|provincia
